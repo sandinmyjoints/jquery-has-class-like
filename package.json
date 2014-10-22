@@ -1,6 +1,6 @@
 {
   "name": "jquery-has-class-like",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Select elements by testing each of an element's classes for `pattern`.",
   "main": "jquery.hasClassLike.js",
   "scripts": {
@@ -11,7 +11,8 @@
     "url": "https://github.com/sandinmyjoints/jquery-has-class-like.git"
   },
   "peerDependencies": {
-    "jquery": "~1.6.0"
+    "jquery": "~1.6.0",
+    "jquery-has-attr-like": "0.0.3"
   },
   "keywords": [
     "jquery",
