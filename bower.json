@@ -17,11 +17,11 @@
     "element",
     "regex",
     "regexp",
-    "pattern"
+    "pattern",
     "search",
     "jquery",
     "hasClassLike",
-    "hasAttrLike",
+    "hasAttrLike"
   ],
   "license": "MIT",
   "ignore": [
