@@ -1,0 +1,34 @@
+{
+  "name": "jquery-has-class-like",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sandinmyjoints/hasClassLike",
+  "authors": [
+    "William Bert <william.bert@gmail.com>"
+  ],
+  "description": "Select elements by testing each of an element's classes for `pattern`.",
+  "dependencies": {
+    "jquery": "~1.6.0",
+    "jquery-has-attr-like": "~0.0.1"
+  },
+  "main": "jquery.hasClassLike.js",
+  "keywords": [
+    "dom",
+    "select",
+    "element",
+    "regex",
+    "regexp",
+    "pattern"
+    "search",
+    "jquery",
+    "hasClassLike",
+    "hasAttrLike",
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
